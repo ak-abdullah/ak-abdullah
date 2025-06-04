@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##🚀 About Me
+## 🚀 About Me
 
 📱 I build beautiful, high-performance Flutter apps with seamless UI/UX and Firebase backend.  
 🤖 Experienced in fine-tuning LLMs, AI integration, and deploying AI models on mobile.  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-##🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Programming Languages:** Dart, Python, C++, C, Java, C#, SQL, JavaScript  
 **Mobile Development:** Flutter, REST API Integration, State Management (Provider), Offline DB  
