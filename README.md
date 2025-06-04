@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Creative-Portfolio.png?raw=true)
+
 
 <!--
 **ak-abdullah/ak-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
