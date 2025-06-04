@@ -35,5 +35,16 @@ Here are some ideas to get you started:
 **Backend:** Firebase (Authentication, Firestore, Cloud Functions), Node.js, Express.js  
 **Generative AI:** RNNs, LSTMs, Transformers, Fine-Tuning
 
+## 🎓 Final Year Project: PhysioGo - Remote Physiotherapy
+
+- Built a cross-platform Flutter app with Firebase backend providing real-time AI feedback on physiotherapy exercises.
+- Integrated AI with MediaPipe for accurate pose estimation and exercise analysis.
+- Used Riverpod state management and REST APIs to create a smooth, responsive user experience.
+- Designed a clean, user-friendly UI/UX to improve patient engagement and adherence.
+- Reduced in-person therapy sessions by 80% through effective remote monitoring.
+- Deployed a scalable backend using Docker on Koyeb for reliable exercise tracking and data management.
+- Leveraged multiple technologies to deliver personalized rehab plans accessible anywhere.
+
+
 
 
