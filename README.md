@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🧰 About Me
+
 📱 I specialize in building beautiful, high-performance mobile apps using Flutter, Dart, and Firebase. I love crafting seamless UI/UX and bringing app ideas to life.
 
 🧠 I'm also exploring AI and machine learning, working with tools like Python, TensorFlow, and OpenCV to integrate smart features into applications.
@@ -24,3 +26,13 @@ Here are some ideas to get you started:
 🚀 Currently diving deeper into state management with Riverpod and experimenting with real-time features and AI model deployment in mobile environments.
 
 📬 Let’s connect if you’re looking for a passionate Flutter developer or someone eager to bring AI to mobile apps!
+
+
+
+## 🧰 Tech Stack
+
+**Programming Languages:** Dart, Python, C++, C, Java, C#, SQL, JavaScript  
+**Mobile Development:** Flutter, REST API Integration, State Management (Provider), Offline DB  
+**Backend:** Firebase (Authentication, Firestore, Cloud Functions), Node.js, Express.js  
+**Generative AI:** RNNs, LSTMs, Transformers, Fine-Tuning
+
