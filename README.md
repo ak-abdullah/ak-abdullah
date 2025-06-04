@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔹 Built cross-platform mobile apps using Flutter, Dart, Firebase, and REST APIs  
+- 🔹 Worked on AI-powered features using Python, TensorFlow, and OpenCV  
+- 🔹 Passionate about creating intuitive UI/UX and scalable app architectures  
+- 🔹 Experienced with tools like Git, GitHub, Figma, and Firebase Authentication
