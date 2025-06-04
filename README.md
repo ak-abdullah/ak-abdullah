@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔹 Built cross-platform mobile apps using Flutter, Dart, Firebase, and REST APIs  
-- 🔹 Worked on AI-powered features using Python, TensorFlow, and OpenCV  
-- 🔹 Passionate about creating intuitive UI/UX and scalable app architectures  
-- 🔹 Experienced with tools like Git, GitHub, Figma, and Firebase Authentication
+📱 I specialize in building beautiful, high-performance mobile apps using Flutter, Dart, and Firebase. I love crafting seamless UI/UX and bringing app ideas to life.
+
+🧠 I'm also exploring AI and machine learning, working with tools like Python, TensorFlow, and OpenCV to integrate smart features into applications.
+
+🚀 Currently diving deeper into state management with Riverpod and experimenting with real-time features and AI model deployment in mobile environments.
+
+📬 Let’s connect if you’re looking for a passionate Flutter developer or someone eager to bring AI to mobile apps!
