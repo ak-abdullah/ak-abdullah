@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><strong><h2>🚀 About Me</h2></strong></p>
+<h2 align="center">🚀 About Me</h2>
 
 📱 I specialize in building beautiful, high-performance mobile apps using Flutter, Dart, and Firebase. I love crafting seamless UI/UX and bringing app ideas to life.
 
@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><strong><h2>🧰 Tech Stack</h2></strong></p>
+<h2 align="center">🧰 Tech Stack</h2>
 
 **Programming Languages:** Dart, Python, C++, C, Java, C#, SQL, JavaScript  
 **Mobile Development:** Flutter, REST API Integration, State Management (Provider), Offline DB  
 **Backend:** Firebase (Authentication, Firestore, Cloud Functions), Node.js, Express.js  
 **Generative AI:** RNNs, LSTMs, Transformers, Fine-Tuning
+
 
 
