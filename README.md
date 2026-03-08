@@ -3,7 +3,7 @@
 ![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Creative.png?raw=true)
 
 I build practical software systems and experiment with AI-driven applications.  
-My focus is on backend development, system design, and integrating machine learning models into real-world products.
+My work focuses on backend development, API design, and integrating machine learning models into real-world products.
 
 Currently interested in:
 - AI-powered applications
@@ -15,22 +15,25 @@ Currently interested in:
 ## 🧰 Tech Stack
 
 **Languages**  
-Python • JavaScript • SQL • C++ • Dart
+Python • JavaScript • SQL • C++ • Java • Dart
 
-**Software Development**  
+**Backend & Software Development**  
 Node.js • Express.js  
 REST API Development  
-System Design Fundamentals
+Backend Workflows & API Integrations
 
-**Backend & Cloud**  
-Firebase (Authentication, Firestore, Cloud Functions)  
-Docker
+**Databases**  
+MongoDB • PostgreSQL • Firebase (Authentication, Firestore)
+
+**Cloud & Tools**  
+Docker • Git • Postman • VS Code
 
 **AI / Machine Learning**  
 Python ML ecosystem  
 Transformers  
-LLM Integration  
-Model Fine-Tuning
+LLM API Integration  
+NLP Fundamentals  
+AI-Assisted Automation
 
 ---
 
@@ -42,11 +45,11 @@ A system designed to help patients perform physiotherapy exercises remotely whil
 
 Key contributions:
 
-- Implemented pose estimation using MediaPipe to analyze exercise movements  
-- Developed AI-based feedback logic for rehabilitation exercises  
-- Built backend services for storing and processing exercise data  
-- Designed API communication between application and backend services  
-- Deployed backend infrastructure using Docker  
+- Implemented pose estimation using MediaPipe to analyze exercise movements
+- Developed AI-based feedback logic for rehabilitation exercises
+- Built backend services for storing and processing exercise data
+- Designed API communication between application and backend services
+- Deployed backend infrastructure using Docker
 
 The platform helps therapists monitor patient progress remotely and improves accessibility to rehabilitation programs.
 
@@ -55,12 +58,12 @@ The platform helps therapists monitor patient progress remotely and improves acc
 ## 📈 Current Focus
 
 - Building AI-integrated software systems  
-- Strengthening backend architecture and system design  
-- Learning production deployment of machine learning models
+- Backend architecture and scalable APIs  
+- Deploying machine learning models in production  
 
 ---
 
 ## 🤝 Connect
 
-LinkedIn: www.linkedin.com/in/-abdullah-khalid  
+LinkedIn: https://www.linkedin.com/in/-abdullah-khalid  
 Email: abdullahkh.cs@gmail.com
