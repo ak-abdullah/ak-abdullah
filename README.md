@@ -1,50 +1,66 @@
 ## Hi there 👋
+
 ![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Abdullah%20Khalid.png?raw=true)
 
+I build practical software systems and experiment with AI-driven applications.  
+My focus is on backend development, system design, and integrating machine learning models into real-world products.
 
-<!--
-**ak-abdullah/ak-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🚀 About Me
-
-📱 I build beautiful, high-performance Flutter apps with seamless UI/UX and Firebase backend.  
-🤖 Experienced in fine-tuning LLMs, AI integration, and deploying AI models on mobile.  
-⚙️ Skilled in state management (Riverpod), REST APIs, and real-time features.  
-💻 Backend expertise with Firebase Auth, Firestore, and Cloud Functions.  
-📬 Let’s connect if you want AI-powered, scalable mobile solutions!
-
+Currently interested in:
+- AI-powered applications
+- Backend systems and APIs
+- Production deployment of machine learning models
 
 ---
 
 ## 🧰 Tech Stack
 
-**Programming Languages:** Dart, Python, C++, C, Java, C#, SQL, JavaScript  
-**Mobile Development:** Flutter, REST API Integration, State Management (Provider), Offline DB  
-**Backend:** Firebase (Authentication, Firestore, Cloud Functions), Node.js, Express.js  
-**Generative AI:** RNNs, LSTMs, Transformers, Fine-Tuning
+**Languages**  
+Python • JavaScript • SQL • C++ • Dart
 
-## 🎓 Final Year Project: PhysioGo - Remote Physiotherapy
+**Software Development**  
+Node.js • Express.js  
+REST API Development  
+System Design Fundamentals
 
-- Built a cross-platform Flutter app with Firebase backend providing real-time AI feedback on physiotherapy exercises.
-- Integrated AI with MediaPipe for accurate pose estimation and exercise analysis.
-- Used Riverpod state management and REST APIs to create a smooth, responsive user experience.
-- Designed a clean, user-friendly UI/UX to improve patient engagement and adherence.
-- Reduced in-person therapy sessions by 80% through effective remote monitoring.
-- Deployed a scalable backend using Docker on Koyeb for reliable exercise tracking and data management.
-- Leveraged multiple technologies to deliver personalized rehab plans accessible anywhere.
+**Backend & Cloud**  
+Firebase (Authentication, Firestore, Cloud Functions)  
+Docker
 
+**AI / Machine Learning**  
+Python ML ecosystem  
+Transformers  
+LLM Integration  
+Model Fine-Tuning
 
+---
 
+## 🚀 Featured Project
 
+### PhysioGo — AI Assisted Physiotherapy Platform
+
+A system designed to help patients perform physiotherapy exercises remotely while receiving automated feedback.
+
+Key contributions:
+
+- Implemented pose estimation using MediaPipe to analyze exercise movements  
+- Developed AI-based feedback logic for rehabilitation exercises  
+- Built backend services for storing and processing exercise data  
+- Designed API communication between application and backend services  
+- Deployed backend infrastructure using Docker  
+
+The platform helps therapists monitor patient progress remotely and improves accessibility to rehabilitation programs.
+
+---
+
+## 📈 Current Focus
+
+- Building AI-integrated software systems  
+- Strengthening backend architecture and system design  
+- Learning production deployment of machine learning models
+
+---
+
+## 🤝 Connect
+
+LinkedIn: www.linkedin.com/in/-abdullah-khalid  
+Email: abdullahkh.cs@gmail.com
