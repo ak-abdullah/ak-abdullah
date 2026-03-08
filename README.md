@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Abdullah Khalid.png?raw=true)
+![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Abdullah%20Khalid.png?raw=true)
 
 
 <!--
