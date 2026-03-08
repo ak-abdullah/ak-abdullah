@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Abdullah%20Khalid.png?raw=true)
+![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Creative.png?raw=true)
 
 I build practical software systems and experiment with AI-driven applications.  
 My focus is on backend development, system design, and integrating machine learning models into real-world products.
