@@ -42,12 +42,11 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
     </td>
     <td width="50%" valign="top" style="border:none">
       <b>AI Email Sequencing System</b><br/>
-      <sub>LLM pipeline that cut manual outreach by 90%. Node.js backend with full idempotency and retry logic. Deployed on GCP Cloud Run with CI/CD.</sub>      
+      <sub>LLM pipeline that cut manual outreach by 90%. Node.js backend with full idempotency and retry logic. Deployed on GCP Cloud Run with CI/CD.</sub><br/><br/>      
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      
     </td>
   </tr>
   <tr>
