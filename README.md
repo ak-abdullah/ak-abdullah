@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Pipelines+%26+RAG+Systems;FastAPI+%2B+GCP+in+Production;Building+AI+that+ships" alt="Typing SVG" />
+</p>
+
 ```yaml
 name: Abdullah Khalid
 role: AI Engineer
@@ -16,8 +20,8 @@ I am an AI Engineer based in Pakistan. I work on LLM pipelines and backend
 systems that run in production. My focus is on building things that hold up
 under real load, not just in a demo or a notebook.
 
-Right now I am at CoreX Tech building AI-powered features on top of a scalable
-FastAPI infrastructure deployed on GCP Cloud Run with full CI/CD.
+Right now I am building AI-powered features on top of a scalable FastAPI
+infrastructure deployed on GCP Cloud Run with full CI/CD.
 
 ---
 
