@@ -1,69 +1,43 @@
-## Hi there 👋
+```yaml
+name: Abdullah Khalid
+role: AI Engineer
+company: CoreX Tech, Faisalabad
+building:
+  - LLM-powered email sequencing (cut manual outreach by 90%)
+  - FastAPI backend with Redis job queues, retry logic, idempotency
+  - Apple IAP backend managing subscriptions via JWT-secured webhooks
+  - RAG pipeline over 1000+ pages using FAISS, answers in under 2s
+stack: [Python, FastAPI, LangChain, FAISS, OpenAI APIs, GCP, Redis, Docker]
+open_to: remote and international opportunities
+contact: abdullahkh.cs@gmail.com
+```
 
-![Banner](https://github.com/ak-abdullah/ak-abdullah/blob/main/images/Creative.png?raw=true)
+I am an AI Engineer based in Pakistan. I work on LLM pipelines and backend
+systems that run in production. My focus is on building things that hold up
+under real load, not just in a demo or a notebook.
 
-I build practical software systems and experiment with AI-driven applications.  
-My work focuses on backend development, API design, and integrating machine learning models into real-world products.
-
-Currently interested in:
-- AI-powered applications
-- Backend systems and APIs
-- Production deployment of machine learning models
-
----
-
-## 🧰 Tech Stack
-
-**Languages**  
-Python • JavaScript • SQL • C++ • Java • Dart
-
-**Backend & Software Development**  
-Node.js • Express.js  
-REST API Development  
-Backend Workflows & API Integrations
-
-**Databases**  
-MongoDB • PostgreSQL • Firebase (Authentication, Firestore)
-
-**Cloud & Tools**  
-Docker • Git • Postman • VS Code
-
-**AI / Machine Learning**  
-Python ML ecosystem  
-Transformers  
-LLM API Integration  
-NLP Fundamentals  
-AI-Assisted Automation
+Right now I am at CoreX Tech building AI-powered features on top of a scalable
+FastAPI infrastructure deployed on GCP Cloud Run with full CI/CD.
 
 ---
 
-## 🚀 Featured Project
-
-### PhysioGo — AI Assisted Physiotherapy Platform
-
-A system designed to help patients perform physiotherapy exercises remotely while receiving automated feedback.
-
-Key contributions:
-
-- Implemented pose estimation using MediaPipe to analyze exercise movements
-- Developed AI-based feedback logic for rehabilitation exercises
-- Built backend services for storing and processing exercise data
-- Designed API communication between application and backend services
-- Deployed backend infrastructure using Docker
-
-The platform helps therapists monitor patient progress remotely and improves accessibility to rehabilitation programs.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak-abdullah&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ak-abdullah&hide_border=true&theme=default" height="165" />
+</p>
 
 ---
 
-## 📈 Current Focus
-
-- Building AI-integrated software systems  
-- Backend architecture and scalable APIs  
-- Deploying machine learning models in production  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ak-abdullah/ak-abdullah/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🤝 Connect
-
-LinkedIn: https://www.linkedin.com/in/-abdullah-khalid  
-Email: abdullahkh.cs@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/-abdullah-khalid">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:abdullahkh.cs@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://ak-abdullah.github.io/Resume/">Resume</a>
+</p>
