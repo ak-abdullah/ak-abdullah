@@ -1,7 +1,7 @@
 ```yaml
 name: Abdullah Khalid
 role: AI Engineer
-company: CoreX Tech, Faisalabad
+location: Pakistan
 building:
   - LLM-powered email sequencing (cut manual outreach by 90%)
   - FastAPI backend with Redis job queues, retry logic, idempotency
