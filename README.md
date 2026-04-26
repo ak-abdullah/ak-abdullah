@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Pipelines+%26+RAG+Systems;FastAPI+%2B+GCP+in+Production;Building+AI+that+ships" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ak-abdullah/ak-abdullah/main/images/Creative-Portfolio.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Pipelines+%26+RAG+Systems;FastAPI+%2B+GCP+in+Production;Building+AI+that+ships" alt="Typing SVG" />
 </p>
 
 ```yaml
