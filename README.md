@@ -15,6 +15,7 @@ building:
   - FastAPI backend with Redis job queues, retry logic, idempotency
   - Apple IAP backend managing subscriptions via JWT-secured webhooks
   - RAG pipeline over 1000+ pages using FAISS, answers in under 2s
+stack: [Python, FastAPI, LangChain, FAISS, OpenAI APIs, GCP, Redis, Docker]
 open_to: remote and international opportunities
 contact: abdullahkh.cs@gmail.com
 ```
@@ -95,11 +96,20 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
 </p>
 
 ---
+**What I'm working on now**
+
+Agentic workflows, multi-step LLM reasoning pipelines, and making RAG
+more reliable under real production load. Also getting deeper into
+system design for distributed AI systems.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-abdullah-khalid">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:abdullahkh.cs@gmail.com">Email</a>
-  &nbsp;|&nbsp;
-  <a href="https://ak-abdullah.github.io/Resume/">Resume</a>
+  <a href="https://www.linkedin.com/in/-abdullah-khalid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdullahkh.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ak-abdullah.github.io/Resume/">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
 </p>
