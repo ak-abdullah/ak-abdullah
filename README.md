@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ak-abdullah/ak-abdullah/main/images/Creative-Portfolio.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ak-abdullah/ak-abdullah/main/images/Creative_AI.png" width="100%" />
 </p>
 
 <p align="center">
