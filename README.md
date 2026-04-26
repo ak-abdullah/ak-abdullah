@@ -27,13 +27,13 @@ Right now I am building AI-powered features on top of a scalable FastAPI
 infrastructure deployed on GCP Cloud Run with full CI/CD.
 
 ---
-### 🚀 What I've Shipped
+**What I've Shipped**
 
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top" style="border:none">
       <b>Selfimoji</b><br/>
-      <sub>AI image and UGC video generation platform. Users generate images with custom backgrounds and presets, and create video ads. Built the full backend from scratch plus parts of the Swift mobile integration.</sub><br/><br/>
+      <sub>AI image and video generation platform. Users generate images with custom backgrounds and presets, and create video ads. Built the full backend from scratch plus parts of the Swift mobile integration.</sub><br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
@@ -42,13 +42,18 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
     </td>
     <td width="50%" valign="top" style="border:none">
       <b>AI Email Sequencing System</b><br/>
-      <sub>LLM pipeline that cut manual outreach by 90%. Node.js backend with full idempotency and retry logic. Deployed on GCP Cloud Run with CI/CD.</sub><br/><br/>      
+      <sub>LLM pipeline that cut manual outreach by 90%. Node.js backend with full idempotency and retry logic. Deployed on GCP Cloud Run with CI/CD.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     </td>
   </tr>
+</table>
+
+**Projects**
+
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top" style="border:none">
       <b>Grounded</b><br/>
@@ -68,7 +73,6 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
     </td>
   </tr>
 </table>
-
 ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,gcp,redis,postgres,mongodb,react&theme=dark" />
@@ -80,7 +84,7 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak-abdullah&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak-abdullah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="165" />
   <img src="https://streak-stats.demolab.com?user=ak-abdullah&hide_border=true&theme=default" height="165" />
 </p>
 
