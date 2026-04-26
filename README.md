@@ -15,7 +15,6 @@ building:
   - FastAPI backend with Redis job queues, retry logic, idempotency
   - Apple IAP backend managing subscriptions via JWT-secured webhooks
   - RAG pipeline over 1000+ pages using FAISS, answers in under 2s
-stack: [Python, FastAPI, LangChain, FAISS, OpenAI APIs, GCP, Redis, Docker]
 open_to: remote and international opportunities
 contact: abdullahkh.cs@gmail.com
 ```
@@ -43,7 +42,7 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
     </td>
     <td width="50%" valign="top" style="border:none">
       <b>AI Email Sequencing System</b><br/>
-      <sub>LLM pipeline that cut manual outreach by 90%. FastAPI backend with Redis job queues, retry logic, and full idempotency. Deployed on GCP Cloud Run with CI/CD.</sub><br/><br/>
+      <sub>LLM pipeline that cut manual outreach by 90%. Node.js backend with full idempotency and retry logic. Deployed on GCP Cloud Run with CI/CD.</sub>      
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
@@ -53,7 +52,7 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
   </tr>
   <tr>
     <td width="50%" valign="top" style="border:none">
-      <b>Grounded</b>
+      <b>Grounded</b><br/>
       <sub>RAG pipeline querying 1000+ pages of documents in under 2 seconds. FAISS-based retrieval with a React frontend.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white"/>
@@ -61,7 +60,7 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
     </td>
     <td width="50%" valign="top" style="border:none">
-      <b>PhysioGo</b>
+      <b>PhysioGo</b><br/>
       <sub>Real-time physiotherapy app using MediaPipe pose estimation. Tracks reps, detects form errors, reports to physiotherapist. Flutter and Python, deployed on Docker.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
