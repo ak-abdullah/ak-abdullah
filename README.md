@@ -85,7 +85,6 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak-abdullah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="165" />
   <img src="https://streak-stats.demolab.com?user=ak-abdullah&hide_border=true&theme=default" height="165" />
 </p>
 
