@@ -74,7 +74,7 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
     </td>
   </tr>
 </table>
----
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,gcp,redis,postgres,mongodb,react&theme=dark" />
 </p>
