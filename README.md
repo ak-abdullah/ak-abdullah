@@ -11,7 +11,7 @@ name: Abdullah Khalid
 role: AI Engineer
 location: Pakistan
 building:
-  - LLM-powered email sequencing (cut manual outreach by 90%)
+  - Android email outreach app, scrapes sites, cuts manual effort by 90%
   - FastAPI backend with Redis job queues, retry logic, idempotency
   - Apple IAP backend managing subscriptions via JWT-secured webhooks
   - RAG pipeline over 1000+ pages using FAISS, answers in under 2s
@@ -24,8 +24,8 @@ I am an AI Engineer based in Pakistan. I work on LLM pipelines and backend
 systems that run in production. My focus is on building things that hold up
 under real load, not just in a demo or a notebook.
 
-Right now I am building AI-powered features on top of a scalable FastAPI
-infrastructure deployed on GCP Cloud Run with full CI/CD.
+Right now I'm building AI-powered features on a production FastAPI
+infrastructure deployed on GCP.
 
 ---
 **What I've Shipped**
@@ -34,7 +34,7 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
   <tr>
     <td width="50%" valign="top" style="border:none">
       <b>Selfimoji</b><br/>
-      <sub>AI image and video generation platform. Users generate images with custom backgrounds and presets, and create video ads. Built the full backend from scratch plus parts of the Swift mobile integration.</sub><br/><br/>
+      <sub>Production app for generating images, videos, memes, avatar try-ons, and UGC content. Handles custom backgrounds, presets, and multiple generation modes. I built the entire backend from scratch and worked on parts of the Swift mobile integration.</sub><br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
@@ -43,11 +43,11 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
     </td>
     <td width="50%" valign="top" style="border:none">
       <b>AI Email Sequencing System</b><br/>
-      <sub>LLM pipeline that cut manual outreach by 90%. Node.js backend with full idempotency and retry logic. Deployed on GCP Cloud Run with CI/CD.</sub><br/><br/>
+      <sub>Android app (Play Store ready) for automating personalized outreach. Fetches contacts, scrapes website data, and sends emails to multiple people at once. Cut manual outreach by 90%.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -97,9 +97,8 @@ infrastructure deployed on GCP Cloud Run with full CI/CD.
 ---
 **What I'm working on now**
 
-Agentic workflows, multi-step LLM reasoning pipelines, and making RAG
-more reliable under real production load. Also getting deeper into
-system design for distributed AI systems.
+Agentic workflows and multi-step reasoning pipelines. Working on making RAG
+more reliable under real load and going deeper into distributed system design.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-abdullah-khalid">
