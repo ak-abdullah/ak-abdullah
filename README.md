@@ -34,7 +34,7 @@ infrastructure deployed on GCP.
   <tr>
     <td width="50%" valign="top" style="border:none">
       <b>Selfimoji</b><br/>
-      <sub>Production app for generating images, videos, memes, avatar try-ons, and UGC content. Handles custom backgrounds, presets, and multiple generation modes. I built the entire backend from scratch and contributed to Swift iOS integration..</sub><br/><br/>
+      <sub>Production app for generating images, videos, memes, avatar try-ons, and personalized video ads. Handles custom backgrounds, presets, and multiple generation modes. I built the entire backend from scratch and contributed to Swift iOS integration.</sub><br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
