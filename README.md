@@ -42,7 +42,7 @@ infrastructure deployed on GCP.
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
     </td>
     <td width="50%" valign="top" style="border:none">
-      <b>AI Email Sequencing System</b><br/>
+      <b>Email Sequencing System</b><br/>
       <sub>Android app (Play Store ready) for automating personalized outreach. Fetches contacts, scrapes website data, and sends emails to multiple people at once. Cut manual outreach by 90%.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
