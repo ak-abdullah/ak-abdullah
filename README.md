@@ -43,7 +43,7 @@ infrastructure deployed on GCP.
     </td>
     <td width="50%" valign="top" style="border:none">
       <b>Email Sequencing System</b><br/>
-      <sub>React Native (Play Store ready) for automating personalized outreach. Fetches contacts, scrapes website data, and sends emails to multiple people at once. Cut manual outreach by 90%.</sub><br/><br/>
+      <sub>Production outreach platform built for Bobos.ai. Import contacts, and the system writes personalized emails for each person, sends them on a schedule, and notifies you when someone replies. Owned the backend, job queue, and React Native app.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
