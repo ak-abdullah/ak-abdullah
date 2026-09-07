@@ -33,7 +33,7 @@ infrastructure deployed on GCP.
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top" style="border:none">
-      <b>Selfimoji</b><br/>
+      <b>AI media generation platform</b><br/>
       <sub>Production app for generating images, videos, memes, avatar try-ons, and personalized video ads. Handles custom backgrounds, presets, and multiple generation modes. I built the entire backend from scratch and contributed to Swift iOS integration.</sub><br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
